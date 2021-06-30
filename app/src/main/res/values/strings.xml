@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MusicFy</string>
+    <string name="add">add</string>
+    <string name="music_name">music name</string>
+    <string name="artist">artist</string>
+    <string name="album">album</string>
+    <string name="genre">genre</string>
+    <string name="save">Save</string>
+</resources>
